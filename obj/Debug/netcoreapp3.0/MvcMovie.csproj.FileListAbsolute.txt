@@ -33,3 +33,4 @@ C:\Users\Libo\Desktop\MvcMovie\obj\Debug\netcoreapp3.0\MvcMovie.Views.pdb
 C:\Users\Libo\Desktop\MvcMovie\obj\Debug\netcoreapp3.0\MvcMovie.dll
 C:\Users\Libo\Desktop\MvcMovie\obj\Debug\netcoreapp3.0\MvcMovie.pdb
 C:\Users\Libo\Desktop\MvcMovie\obj\Debug\netcoreapp3.0\MvcMovie.csproj.CopyComplete
+C:\Users\Libo\Desktop\MvcMovie\obj\Debug\netcoreapp3.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
